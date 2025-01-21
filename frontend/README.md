@@ -1,35 +1,29 @@
-# octa-one
+# README
 
-This template should help get you started developing with Vue 3 in Vite.
+This README would normally document whatever steps are necessary to get your application up and running.
 
-## Recommended IDE Setup
+### What is this repository for?
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Quick summary
+- Version
+- [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-## Customize configuration
+### How do I get set up?
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- Summary of set up.
+- Configuration
+- Dependencies
+- Database configuration
+- How to run tests
+- Deployment instructions
 
-## Project Setup
+### Contribution guidelines
 
-```sh
-npm install
-```
+- Writing tests
+- Code review
+- Other guidelines
 
-### Compile and Hot-Reload for Development
+### Who do I talk to?
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+- Repo owner or admin
+- Other community or team contact
